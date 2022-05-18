@@ -1,0 +1,6 @@
+git init
+touch laxman
+git add
+git commit
+git push
+git clone
