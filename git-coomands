@@ -4,3 +4,11 @@ git add
 git commit
 git push
 git clone
+
+git branch
+git branch -r
+git checkout -b origin/branch
+git checkout -b origin/branch
+git branch
+
+
