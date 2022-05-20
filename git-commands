@@ -1,0 +1,13 @@
+git init
+git add .
+git commit -m "label message"
+git push
+
+git log
+git show
+git log -n
+git show -n
+
+git branch
+git branch branch-name
+git checkout branch-name
